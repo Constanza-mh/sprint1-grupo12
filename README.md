@@ -78,3 +78,13 @@ Como usuario autorizado, quiero configurar el nivel máximo de ruido permitido, 
 HU-05
 
 Como encargado de mantenimiento, quiero identificar si el sensor está funcionando correctamente, para detectar posibles fallas y garantizar la continuidad de las mediciones.
+
+
+PRECIOS DE LOS COMPONENTES:
+1) led difusa: $1.946
+2) protoboard: $4.988
+3) cables macho-hembra: $3.199
+4) resistencia: $1.916
+5) placa arduino uno: $11.616
+6) sensor de ruido: $2.800
+TOTAL: $27.674
